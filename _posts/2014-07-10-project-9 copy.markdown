@@ -1,8 +1,8 @@
 ---
 layout: default
-modal-id: 6
-date: 2014-07-13
-img: dashBA.jpeg
+modal-id: 9
+date: 2014-07-10
+img: 
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
