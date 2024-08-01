@@ -36,6 +36,7 @@ footer:
   
   location: Location
   social: Around the Web
+  credits: More Ways To Contact Us
   
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -47,10 +48,12 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Monument, Colorado
+  - line: Colorado Springs, Colorado
 
 # Credits content
-
+credits:
+  - line: 719-602-9366
+  - line: bnbcardetailing@gmail.com
 
 # Build settings
 markdown: kramdown
